@@ -1,0 +1,23 @@
+*{
+    padding: 2px;
+    margin: 0px;
+    font-family: sans-serif;
+}
+#ra{
+    color: red;
+}
+.font{
+    font-size: 18px;
+}
+#head{
+    font-size: 60px;
+    text-align: left;
+}
+#contact{
+    color: white;
+}
+.rk{
+    background-color: #475F77;
+    height: 400px;
+    width: 100%;
+}
